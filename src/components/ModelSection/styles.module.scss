@@ -1,0 +1,29 @@
+.container {
+  height: 100vh;
+
+  background-size: cover;
+  background-position: center;
+  scroll-snap-align: start;
+  
+}
+.container:nth-child(1) {
+  background-image: url("/ms-homepage-desktop.jpeg");
+}
+.container:nth-child(2) {
+  background-image: url("/Desktop-ModelY.jpeg");
+}
+.container:nth-child(3) {
+  background-image: url("/m3-homepage-desktop.jpeg");
+}
+.container:nth-child(4) {
+  background-image: url("/mx-homepage-desktop.jpeg");
+}
+.container:nth-child(5) {
+  background-image: url("/Desktop-SolarPanels.jpeg");
+}
+.container:nth-child(6) {
+  background-image: url("/solar-roof-hero-desktop.jpeg");
+}
+.container:nth-child(7) {
+  background-image: url("/Desktop-Accessories.jpeg");
+}
